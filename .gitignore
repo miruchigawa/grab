@@ -1,0 +1,5 @@
+grab
+main.o
+test.txt
+tests/test_file.txt
+repro.txt
